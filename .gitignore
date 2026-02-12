@@ -1,0 +1,11 @@
+Fake.csv
+True.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.gemini/
+.agent/
+brain/
+convert_report.py
+node_modules/
+.env
